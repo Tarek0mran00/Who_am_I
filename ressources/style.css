@@ -1,0 +1,29 @@
+h1{
+    background-image: url("../images/image1.jpeg");
+        font-family: Helvetica;
+        font-size: 100px;
+        font-weight: bold;
+        color: khaki;
+        text-align: center;
+    
+}
+h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+.one{
+    background-color: mediumspringgreen;
+}
+.two{
+    background-color: lightcoral;
+}
+.three{
+    background-color: skyblue;
+}
+span {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
